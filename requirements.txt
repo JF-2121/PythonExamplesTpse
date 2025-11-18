@@ -1,0 +1,8 @@
+numpy
+pyvista
+trimesh
+scipy
+networkx
+
+# Optional/accelerators (install if desired)
+# fast_simplification    # optional fast mesh decimation backend if available
